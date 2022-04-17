@@ -7,5 +7,6 @@ int main()
 	cout << "Hi MOM!" << endl;
 	cout << "Hi Linux!" <<endl;
 	cout << "Hi World!" << endl;
+	cout << "Hi!" << endl;
 	return 0;
 }
