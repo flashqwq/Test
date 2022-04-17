@@ -1,12 +1,7 @@
-#include <iostream>
-using namespace std;
+#include<stdio.h>
 
 int main()
 {
-	cout << "Hello World!" << endl;
-	cout << "Hi MOM!" << endl;
-	cout << "Hi Linux!" <<endl;
-	cout << "Hi World!" << endl;
-	cout << "Hi!" << endl;
+	printf("Hello World!");
 	return 0;
 }
