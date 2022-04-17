@@ -1,10 +1,8 @@
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 
 int main()
 {
-	cout << "Hello World!" << endl;
-	cout << "Hi MOM!" << endl;
-	cout << "Hello" <<endl;
+	printf("Hello World!");
+	printf("World!");
 	return 0;
 }
